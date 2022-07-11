@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'DotGothic16', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+}
+
+
+
+
+
+.profile{
+    border: 3px white solid;
+    border-radius: 4%;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.profile-content{
+   
+    width: 750px;
+    height: 250px;
+    margin: 20px auto;
+    
+    padding: 10px;
+}
+
+.profile-content p{
+    font-size: 22px;
+    margin-bottom: 9px;
+    
+}
